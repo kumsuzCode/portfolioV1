@@ -359,6 +359,7 @@ nav {
 
 .modal__languages {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -400,6 +401,7 @@ nav {
 
 .modal__title {
   font-size: 26px;
+  margin-bottom: 20px;
 }
 
 .modal__sub-title {
